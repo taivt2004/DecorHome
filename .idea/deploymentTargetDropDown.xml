@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="MainThi">
+        <State />
+      </entry>
+      <entry key="MainThi2">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="funDangKy">
+        <State>
+          <runningDeviceTargetSelectedWithDropDown>
+            <Target>
+              <type value="RUNNING_DEVICE_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="SERIAL_NUMBER" />
+                  <value value="223be9bf" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </runningDeviceTargetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-10-18T00:33:23.201919900Z" />
+        </State>
+      </entry>
+      <entry key="funLogin">
+        <State />
+      </entry>
+      <entry key="funProduct2">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
